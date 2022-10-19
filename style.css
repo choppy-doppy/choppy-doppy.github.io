@@ -1,8 +1,8 @@
 :root {
-    --col-primary: #ace0f0;
-    --col-secondary: #e1eff5;
-    --col-bg: #242a30;
-    --col-navbg: #313b44;
+    --col-primary: #546596;
+    --col-secondary: #8b9cd1;
+    --col-bg: #161923;
+    --col-navbg: #242838;
     --col-navbg-hover: #3c4955;
     --footer-size: 24px;
 }
@@ -14,8 +14,8 @@
 }
 
 @font-face {
-    font-family: 'Riffic';
-    src: url(assets/RifficFree-Bold.ttf);
+    font-family: 'Quicksand';
+    src: url(Quicksand-Medium.ttf);
 }
 
 body {
@@ -27,7 +27,7 @@ body {
 
 .title {
     text-align: center;
-    font-family: Riffic;
+    font-family: Quicksand;
     color: var(--col-primary);
     font-size: 369%;
     margin-top: 25px;
@@ -36,7 +36,7 @@ body {
 
 .subtitle {
     text-align: center;
-    font-family: Riffic;
+    font-family: Quicksand;
     color: var(--col-primary);
     font-size: 200%;
     /* pointer-events: none; */
