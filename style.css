@@ -1,5 +1,10 @@
+:root {
+    --col-bg: #161923;
+    --col-main-text: #FFFFFF;
+}
+
 body {
-    background-color: #161923;
+    background-color: var(--col-bg);
 }
 
 @font-face {
@@ -7,21 +12,12 @@ body {
     src: url(assets/Quicksand-Medium.ttf);
   }
 
-p {
-    color: #FFFFFF;
-    font-family: 'Quicksand';
+.main {
+    color: var(--col-main-text);
+    font-family: Quicksand;
     text-align: center;
     margin: auto;
-    width: 50%;
-    padding: 10px;
-}
-
-h2 {
-    color: #FFFFFF;
-    font-family: 'Quicksand';
-    text-align: center;
-    margin: auto;
-    width: 50%;
+    width: 50px;
     padding: 10px;
 }
 
