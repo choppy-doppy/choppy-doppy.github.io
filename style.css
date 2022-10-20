@@ -21,5 +21,12 @@ body {
     padding: 20%;
 }
 
-
+.footer {
+    color: var(--col-main-text);
+    font-family: Quicksand;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 40%;
+}
 
