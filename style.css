@@ -12,6 +12,8 @@ p {
     font-family: 'Quicksand';
     text-align: center;
     margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 h2 {
@@ -19,6 +21,8 @@ h2 {
     font-family: 'Quicksand';
     text-align: center;
     margin: auto;
+    width: 50%;
+    padding: 10px;
 }
 
 
