@@ -29,5 +29,10 @@ body {
     width: 50%;
 }
 
-
+.navbar {
+    margin: auto;
+    text-align: center;
+    font-family: Quicksand;
+    padding: 10px;
+}
 
