@@ -62,5 +62,13 @@ body {
     padding: 10px;
 }
 
-
+.nav {
+    background-color: #30374d;
+    border: none;
+    color: var(--col-main-text);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
 
