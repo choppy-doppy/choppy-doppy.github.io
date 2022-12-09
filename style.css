@@ -30,7 +30,7 @@ body {
     padding: 10%;
 }
 
-.articleText {
+.artt {
     color: var(--col-main-text);
     font-family: Quicksand;
     text-align: left;
@@ -39,7 +39,7 @@ body {
     padding: 10%;
 }
 
-.articleHeader {
+.arth {
     color: var(--col-main-text);
     font-family: Quicksand;
     text-align: left;
