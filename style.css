@@ -30,6 +30,24 @@ body {
     padding: 10%;
 }
 
+.articleText {
+    color: var(--col-main-text);
+    font-family: Quicksand;
+    text-align: left;
+    margin: auto;
+    width: 80%;
+    padding: 10%;
+}
+
+.articleHeader {
+    color: var(--col-main-text);
+    font-family: Quicksand;
+    text-align: left;
+    margin: auto;
+    width: 80%;
+    padding: 10%;
+}
+
 .footer {
     color: var(--col-main-text);
     font-family: Quicksand;
