@@ -30,7 +30,7 @@ body {
     padding: 10%;
 }
 
-.artt {
+.article {
     color: var(--col-main-text);
     font-family: Quicksand;
     text-align: left;
@@ -39,14 +39,6 @@ body {
     padding: 10%;
 }
 
-.arth {
-    color: var(--col-main-text);
-    font-family: Quicksand;
-    text-align: left;
-    margin: auto;
-    width: 80%;
-    padding: 10%;
-}
 
 .footer {
     color: var(--col-main-text);
