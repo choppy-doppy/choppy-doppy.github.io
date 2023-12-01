@@ -14,7 +14,7 @@ body {
 
 .main {
     color: var(--col-main-text);
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     text-align: center;
     margin: auto;
     width: 50%;
@@ -23,7 +23,7 @@ body {
 
 .about {
     color: var(--col-main-text);
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     text-align: center;
     margin: auto;
     width: 80%;
@@ -32,7 +32,7 @@ body {
 
 .article {
     color: var(--col-main-text);
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     text-align: left;
     margin: auto;
     width: 500px;
@@ -43,7 +43,7 @@ body {
 
 .footer {
     color: var(--col-main-text);
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     text-align: center;
     margin: auto;
     width: 50%;
@@ -52,21 +52,21 @@ body {
 .navbar {
     margin: auto;
     text-align: center;
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     padding: 10px;
 }
 
 .header {
     margin: auto;
     text-align: center;
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     padding: 50px;
     color: var(--col-main-text);
 }
 
 .rustMain {
     color: var(--col-main-text);
-    font-family: Quicksand;
+    font-family: Quicksand, sans-serif;
     text-align: center;
     margin: auto;
     width: 50%;
