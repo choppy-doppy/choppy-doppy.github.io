@@ -90,15 +90,21 @@ body {
     transform: translate(-50%,-50%);
 }
 
- .image-container {
-     color: var(--col-main-text);
-     font-family: Quicksand, sans-serif;
-     text-align: center;
-     margin: auto;
-     width: 80%;
-     padding: 10%;
- }
+.image-container {
+    color: var(--col-main-text);
+    font-family: Quicksand, sans-serif;
+    text-align: left;
+    margin: auto;
+    width: 80%;
+    padding: 1%;
+}
 
-.bold {
-    font-weight: bold;
- }
+.image-container img {
+    text-align: left;
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: 0;
+}
+
