@@ -91,5 +91,10 @@ body {
 }
 
  .image-container {
-     margin-bottom: 20px;
+     color: var(--col-main-text);
+     font-family: Quicksand, sans-serif;
+     text-align: center;
+     margin: auto;
+     width: 80%;
+     padding: 10%;
  }
