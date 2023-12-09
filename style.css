@@ -98,3 +98,7 @@ body {
      width: 80%;
      padding: 10%;
  }
+
+.bold {
+    font-weight: bold;
+ }
