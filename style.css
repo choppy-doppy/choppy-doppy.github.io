@@ -90,3 +90,6 @@ body {
     transform: translate(-50%,-50%);
 }
 
+ .image-container {
+     margin-bottom: 20px;
+ }
