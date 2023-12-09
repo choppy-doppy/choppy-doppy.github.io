@@ -10,7 +10,7 @@ body {
 @font-face {
     font-family: 'Quicksand';
     src: url(assets/Quicksand-Medium.ttf);
-  }
+}
 
 .main {
     color: var(--col-main-text);
@@ -87,7 +87,7 @@ body {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
 }
 
 .image-container {
